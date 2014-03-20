@@ -1,0 +1,9 @@
+Package: cc.tweak.prowidgets.widget.googleauthenticator
+Name: Google Authenticator for ProWidgets
+Depends: firmware (>= 7.0), cc.tweak.prowidgets, cc.tweak.libobjcipc
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 
+Maintainer: Alan Yip
+Author: Alan Yip
+Section: 
